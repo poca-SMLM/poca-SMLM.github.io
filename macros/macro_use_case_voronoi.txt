@@ -1,0 +1,12 @@
+{"MainWindow":{"open":{"calibration_t":1.0,"calibration_xy":1.0,"calibration_z":1.0,"frame":4,"intensity":3,"path":"./data/simulation_1.csv","separator":44,"sigmaZ":6,"x":0,"y":1,"z":2}}}
+{"DetectionSet":{"computeVoronoi":{"onSphere":false}}}
+{"VoronoiDiagram":{"histogram":{"action":"log","feature":"density","value":true}}}
+{"VoronoiDiagram":{"densityFactor":{"factor":2.0,"inROIs":false}}}
+{"DetectionSet":{"selected":false}}
+{"VoronoiDiagram":{"objectCreationParameters":{"cutDistance":3.4028234663852886e+38,"inROIs":false,"maxArea":3.4028234663852886e+38,"maxLocs":18446744073709551615,"minArea":0.0,"minLocs":10}}}
+{"VoronoiDiagram":{"createFilteredObjects":""}}
+{"VoronoiDiagram":{"selected":false}}
+{"ObjectList":{"ellipsoidRendering":false}}
+{"ObjectList":{"outlinePointRendering":false}}
+{"ObjectList":{"fill":false}}
+{"ObjectList":{"saveStatsObjs":{"filename":"./data/simulation_1_statsObjs.csv","separator":","}}}
