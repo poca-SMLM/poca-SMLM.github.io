@@ -1,6 +1,6 @@
 ## Installation
 
-Windows binaries are packaged in a zip file and are available in the [***Release***](https://github.com/flevet/PoCA/release) section of the PoCA Github. Un-zip the archive in desired folder and double-click on ***poca.exe***. A few datasets are provided in the ***data*** folder to play with.
+Windows binaries are packaged in a zip file and are available in the [***Release***](https://github.com/flevet/PoCA/releases) section of the PoCA Github. Un-zip the archive in desired folder and double-click on ***poca.exe***. A few datasets are provided in the ***data*** folder to play with.
 
 <p align="center">
 	<img src="./images/releases.png" width="800">
